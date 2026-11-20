@@ -1,8 +1,8 @@
 # Renoy Babu C
 
-First-principles systems architect and hands-on 0-to-1 builder. Former CTO, currently a Fractional CTO, with 10+ years shipping software. I still spend about 80% of my time writing code.
+First-principles systems architect and hands-on 0-to-1 builder. Former CTO, currently a Fractional CTO, with 10+ years shipping software. I
 
-I design systems from the kernel up and build the production surface myself: Rust and embedded work, full-stack web platforms, and agentic AI.
+
 
 ## Now
 
